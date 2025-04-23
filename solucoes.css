@@ -1,0 +1,6 @@
+.controle{
+    list-style: decimal-leading-zero;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
