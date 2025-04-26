@@ -22,7 +22,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    
+    margin-top: 80px;
 
     
 }
@@ -41,8 +41,9 @@
     justify-content: center;
     flex-direction: column;
     background-color: #706D54;
+    margin-left: 100px;
+    margin-right: 100px;
 
-    margin: 100px;
     
 }
 
@@ -53,9 +54,10 @@
     flex-direction: column;
     background-color: #706D54;
 
-    margin: 100px;
+  
     
 }
 .texto{
     background-color: #706D54;
+    padding: 200px;
 }

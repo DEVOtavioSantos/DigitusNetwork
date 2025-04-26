@@ -21,6 +21,7 @@
     flex-direction: row;
     gap: 100px;
     background-color: #706D54;
+    flex-wrap: wrap;
     
     
 }
@@ -44,6 +45,7 @@
 
 .opcao:hover{
     padding: 10px;
+    transition: 0.5s all;
 }
 
 .botao{
@@ -59,10 +61,20 @@
 }
 .botao:hover{
     padding: 15px;
+    transition: 0.5s all;
 }
 
 .botao a{
     color: white;
     background-color: transparent;
     padding: 2px;
+}
+
+@media screen and(max-width: 768px) {
+    .conteudo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    }
 }

@@ -33,7 +33,8 @@
 
 .botao-conteudo1:hover{
     padding: 12px;
-    transition: 0.5s all;
+    transition: 1s all;
+    
 }
 
 .botao-conteudo1 a{
@@ -73,7 +74,7 @@
 .ternario{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     flex-direction: row;
     background-color: #706D54;
 
@@ -94,13 +95,15 @@
     flex-direction: column;
     padding: 50px;
 }
+
+
 .final-title{
     color: #706D54;
 
 }
 
 .text-final{
-    color: #A08963;
+    
     
 }
 
@@ -121,4 +124,15 @@
     background-color: transparent;
     padding: 2px;
 }
+
+.btn-home:hover{
+    padding: 12px;
+    transition: 1s all;
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: right;
     
+}

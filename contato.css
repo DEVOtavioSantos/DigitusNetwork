@@ -1,17 +1,17 @@
-.controle{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
+
+.titulo{
+  font-size: 80px;
 }
 
-.texto{
-  margin-left: -50px;
-  
-}
 
 .container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: #706D54;
+   padding: 500px;
+}
+
+.conteudo{
+  background-color: #706D54;
 }
