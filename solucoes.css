@@ -1,6 +1,15 @@
 .controle{
-    list-style: decimal-leading-zero;
+    
+}
+    
+.container{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-items: center;
+}
+
+.conteudo{
+    list-style: decimal-leading-zero;
+    
+    flex-direction: column;
 }
