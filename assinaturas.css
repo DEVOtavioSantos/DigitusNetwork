@@ -10,7 +10,9 @@
 .container{
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
+    background-color: #706D54;
+
 }
 .conteudo{
     display: flex;
@@ -18,6 +20,9 @@
     justify-content: space-around;
     flex-direction: row;
     gap: 100px;
+    background-color: #706D54;
+    
+    
 }
 
 
@@ -34,6 +39,7 @@
     justify-content: flex-start;
     list-style: decimal-leading-zero;
     margin: 10px;
+    
 }
 
 .opcao:hover{
