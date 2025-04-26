@@ -60,6 +60,7 @@
     justify-content: center;
     flex-direction: column;
     background-color: #706D54;
+    
 }
 
 .title-secund{
@@ -68,8 +69,4 @@
     border-radius: 25px;
     padding: 50px;
     margin: 15px;
-    
-    
-    
-    
 }
