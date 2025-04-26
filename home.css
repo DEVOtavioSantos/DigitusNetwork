@@ -70,3 +70,55 @@
     padding: 50px;
     margin: 15px;
 }
+.ternario{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #706D54;
+
+}
+
+.text-ternario{
+    color: #181C14;
+    border: 3px solid #A08963 ;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 15px;
+}
+
+.final{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px;
+}
+.final-title{
+    color: #706D54;
+
+}
+
+.text-final{
+    color: #A08963;
+    
+}
+
+.btn-final{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin-left: 20px;
+    background-color: #181C14;
+    border-color: transparent;
+    box-shadow: 4px 5px 4px black;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.btn-home{
+    color: white;
+    background-color: transparent;
+    padding: 2px;
+}
+    

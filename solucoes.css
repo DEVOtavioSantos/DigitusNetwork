@@ -5,8 +5,3 @@
     justify-items: center;
 }
 
-.conteudo{
-    list-style: decimal-leading-zero;
-    
-    flex-direction: column;
-}
