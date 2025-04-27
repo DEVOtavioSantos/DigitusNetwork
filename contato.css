@@ -1,6 +1,7 @@
 
-.titulo{
+.titulo h1{ 
   font-size: 80px;
+  background-color: #706D54;
 }
 
 
@@ -13,5 +14,10 @@
 }
 
 .conteudo{
+  background-color: #706D54;
+  
+}
+
+.texto p{
   background-color: #706D54;
 }
