@@ -1,0 +1,17 @@
+.container{
+    background-color: #706D54;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo h1 strong{
+    background-color: #706D54;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo p{
+    background-color: #706D54; 
+}
