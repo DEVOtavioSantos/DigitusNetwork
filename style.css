@@ -26,9 +26,13 @@
     
     
 }
+
+.cabecalho h1{
+    color: #706D54;
+}
 .header-navigator{
     display: flex;
-    gap: 2px;
+    gap: 10px;
     color: #697565;
     transition: 5s;
     margin: 5px
