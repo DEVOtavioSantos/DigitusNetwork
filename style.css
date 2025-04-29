@@ -23,8 +23,14 @@
     position: sticky; 
     top: 0;
     border: 0.4px solid black;
-    
-    
+}
+
+
+
+
+
+.cabecalho a h1 strong{
+   color: #706D54;
 }
 .header-navigator{
     display: flex;
