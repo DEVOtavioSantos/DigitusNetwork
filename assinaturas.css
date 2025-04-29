@@ -99,9 +99,11 @@
 .row{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     gap: 50px;
     background-color: #706D54;
 }
+
 
 .label1{
     border:2px solid #e09200;
