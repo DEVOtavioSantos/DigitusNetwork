@@ -5,6 +5,9 @@
     justify-content: center;
 }
 
+.conteudo{
+    background-color: #706D54; 
+}
 .conteudo h1 strong{
     background-color: #706D54;
     display: flex;
@@ -12,6 +15,12 @@
     justify-content: center;
 }
 
+.conteudo p strong{
+    background-color: #706D54; 
+    border: none;
+}
+
 .conteudo p{
     background-color: #706D54; 
+    border: none;
 }
