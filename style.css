@@ -23,8 +23,14 @@
     position: sticky; 
     top: 0;
     border: 0.4px solid black;
-    
-    
+}
+
+
+
+
+
+.cabecalho a h1 strong{
+   color: #706D54;
 }
 
 .cabecalho h1{
@@ -34,12 +40,13 @@
     display: flex;
     gap: 10px;
     color: #697565;
+    flex-wrap: wrap;
     transition: 5s;
     margin: 5px
 }
 
 .navigator-itens{
-    padding: 15px;
+    padding: 10px;
     margin: 10px;
     color: #697565;
     font-weight: 400;
