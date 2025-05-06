@@ -86,7 +86,7 @@
 
 
 .label{
-    border:2px solid #D4AF37;
+    border-image: linear-gradient(to right, darkblue, darkorchid) 1px;
     border-radius: 20px;
     margin: 15px;
     padding: 5px;
@@ -105,24 +105,12 @@
 }
 
 
-.label1{
-    border:2px solid #e09200;
-    border-radius: 20px;
-    margin: 15px;
-    padding: 5px;
-    box-shadow: 4px 5px 5px #f8b500;
-}
-.label1 h1{
-    border-radius: 20px;
-}
+
 
 .label:hover{
     padding: 10px;
     transition: 0.5s all;
 }
 
-.label1:hover {
-    padding: 10px;
-    transition: 0.5s all;
-}
+
 
