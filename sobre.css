@@ -14,11 +14,12 @@
 }
 
 
+
+   
+
 .titulo{
     
     display: flex;
-    align-items: center;
-    justify-content: center;display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
@@ -30,8 +31,9 @@
 .titulo h1{
     display: flex;
     align-items: center;
-    justify-content: center;
-    flex-direction: column;background-color: #706D54;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: #706D54;
     
 
 }
@@ -61,3 +63,14 @@
     background-color: #706D54;
     padding: 200px;
 }
+
+
+        /* Desktop styles */
+        @media (min-width: 768px) {
+            .titulo h1{
+                display: flex;
+                flex-wrap: wrap;
+                align-items: flex-start;
+                justify-items: flex-start;
+            }
+        }
