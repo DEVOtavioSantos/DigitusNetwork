@@ -23,4 +23,32 @@
 .conteudo p{
     background-color: #706D54; 
     border: none;
+
+}
+
+.opcao{
+    background-color: #706D54; 
+}
+
+.opcao strong{
+    background-color: #706D54; 
+}
+
+.btn{
+    
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: #181C14;
+    border-color: transparent;
+    box-shadow: 4px 5px 4px black;
+    cursor: pointer;
+    padding: 10px;
+    color:white
+}
+
+.btn:hover{
+    padding: 12px;
+    transition: 1s all;
 }
