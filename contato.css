@@ -1,23 +1,15 @@
-
-.titulo h1{ 
-  font-size: 80px;
-  background-color: #706D54;
-}
-
-
 .container{
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   background-color: #706D54;
-   padding: 500px;
+  background-color: #706D54;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
 }
 
 .conteudo{
-  background-color: #706D54;
-  
+  margin: 15px;
 }
 
-.texto p{
-  background-color: #706D54;
+.forms{
+  height: 514px;
+  width: 1024px;
 }
