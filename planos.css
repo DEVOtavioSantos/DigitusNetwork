@@ -3,10 +3,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 .conteudo{
     background-color: #706D54; 
+    margin: 15px;
 }
 .conteudo h1 strong{
     background-color: #706D54;
@@ -33,6 +35,7 @@
 .opcao strong{
     background-color: #706D54; 
 }
+
 
 .btn{
     
