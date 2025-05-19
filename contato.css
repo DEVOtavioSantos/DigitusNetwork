@@ -5,19 +5,3 @@
 }
 
 
-.container{
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   background-color: #706D54;
-   padding: 500px;
-}
-
-.conteudo{
-  background-color: #706D54;
-  
-}
-
-.texto p{
-  background-color: #706D54;
-}
