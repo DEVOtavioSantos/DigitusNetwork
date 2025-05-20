@@ -8,6 +8,7 @@
 .conteudo{
   color:black;
   background-color: #706D54;
+  margin-top: 15px;
 }
 
 .conteudo a strong{
@@ -37,4 +38,18 @@
 
 .conteudo h2 strong {
   background-color: #706D54;
+}
+
+.bibi-whatsapp{
+  background-color: #706D54;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+}
+
+.bibi-envelope{
+  background-color: #706D54;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
 }
