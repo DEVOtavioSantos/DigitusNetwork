@@ -1,7 +1,32 @@
-
-.titulo h1{ 
-  font-size: 80px;
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #706D54;
 }
 
+.conteudo{
+  color:black;
+  background-color: #706D54;
+}
 
+.conteudo a strong{
+  color: black;
+  background-color: #706D54;
+}
+.conteudo a {
+  color: black;
+  background-color: #706D54;
+}
+
+.conteudo label strong{
+  background-color: #706D54;
+}
+
+.conteudo h1 strong{
+  background-color: #706D54;
+}
+
+.conteudo h1{
+  background-color: #706D54;
+}
